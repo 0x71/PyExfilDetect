@@ -1,0 +1,12 @@
+# Ignore  log
+exfil-detect.log
+
+# Ignore Python byte code
+*.pyc
+
+# data directory
+data/*
+
+*.csv
+*.tgz
+*.json
